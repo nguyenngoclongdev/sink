@@ -45,7 +45,7 @@ const { title, description, github } = useAppConfig()
           />
           {{ $t('dashboard.title') }}
         </HomeLink>
-        <HomeLink
+        <!-- <HomeLink
           size="lg"
           type="outline"
           rel="noopener"
@@ -59,6 +59,7 @@ const { title, description, github } = useAppConfig()
           />
           GitHub Repo
         </HomeLink>
+        -->
       </div>
     </div>
     <div
