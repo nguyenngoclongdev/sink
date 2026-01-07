@@ -17,7 +17,7 @@ useSeoMeta({
 
 useHead({
   htmlAttrs: {
-    lang: 'en',
+    lang: 'vi',
   },
   meta: [
     {
